@@ -1,0 +1,802 @@
+@media (max-width: 2560px) and (min-width: 1441px){
+}
+
+@media (max-width: 1440px) and (min-width: 1201px){
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+}
+
+@media (max-width: 1200px) and (min-width: 1025px){
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+  .navbar .navbar-nav{
+    margin: 0px 100px;
+  }
+
+  .our-services img{
+    width: 300px;
+    height: 200px;
+  }
+
+  .testmonials .image img{
+    width: 400px;
+    height: 380px;
+  }
+}
+
+@media (max-width: 992px) and (min-width: 769px){
+  .navbar .navbar-nav{
+    margin: 0px 100px;
+  }
+
+  .our-services img{
+    width: 300px;
+    height: 200px;
+  }
+
+  .testmonials .image img{
+    width: 400px;
+    height: 380px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+  .fixed-call p{
+    font-size: 10px;
+  }
+  
+  .navbar .navbar-nav{
+    /*margin: 0px 70px;
+    flex-direction: row;
+    font-size: 10px;*/
+    display: none;
+  }
+
+  .navbar .social-icons{
+    margin-left: 20px;
+  }
+
+  header .contain h1{
+    width: 50%;
+    font-size: 40px;
+  }
+
+  .who-we-are .content h1,
+  .our-services h1,
+  .why-choose-us .content h1,
+  .testmonials h1,
+  .questions .content h1,
+  .offer h1{
+    font-size: 29px;
+  }
+
+  header .contain p,
+  .who-we-are .content p,
+  .our-services p,
+  .why-choose-us .content p,
+  .testmonials .content p,
+  .questions .content p,
+  .contact-us p{
+    font-size: 13px;
+  }
+
+  header .row{
+    margin: 0px 70px;
+  }
+
+  header .row .box p{
+    width: 100%;
+  }
+
+  .who-we-are .content .flex-data p{
+    font-size: 12px;
+  }
+
+  .who-we-are .form{
+    left: 75%;
+  }
+
+  .who-we-are .form button{
+    width: 100%;
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .why-choose-us .images .main-image img{
+    width: 300px;
+    height: 300px;
+  }
+
+  .why-choose-us .images img{
+    width: 130px;
+    height: 110px;
+  }
+
+  .why-choose-us .images .img1{
+    top: 120px;
+    left: -20px;
+  }
+
+  .why-choose-us .content .features::after{
+    left: 18px;
+  }
+
+  .testmonials .content .comment{
+    right: 50%;
+  }
+
+  .testmonials .image img{
+    width: 300px;
+    height: 350px;
+  }
+
+  .offer button{
+    padding: 10px;
+    font-size: 10px;
+  }
+
+  .contact-us .contact-info iframe{
+    width: 350px;
+    height: 320px;
+  }
+}
+
+@media (max-width: 576px) and (min-width: 426px){
+  .fixed-call p{
+    font-size: 10px;
+  }
+  
+  .navbar .navbar-nav{
+    display: none;
+  }
+
+  .navbar .social-icons{
+    margin-left: 20px;
+  }
+
+  .contact-us .contain,
+  .why-choose-us .contain,
+  .who-we-are .contain{
+    flex-direction: column;
+  }
+
+  .who-we-are .content,
+  .why-choose-us .content,
+  .contact-us .form,
+  .contact-us .contact-info{
+    width: 80%;
+    margin: 10px 0px;
+  }
+
+  header .contain h1{
+    width: 80%;
+    font-size: 40px;
+  }
+
+  .who-we-are .content h1,
+  .our-services h1,
+  .why-choose-us .content h1,
+  .testmonials h1,
+  .questions .content h1,
+  .offer h1{
+    font-size: 29px;
+  }
+
+  header .contain p,
+  .who-we-are .content p,
+  .our-services p,
+  .why-choose-us .content p,
+  .testmonials .content p,
+  .questions .content p,
+  .contact-us p{
+    font-size: 13px;
+  }
+
+  header .row{
+    margin: 0px 40px;
+  }
+
+  header .row .box{
+    padding: 20px;
+  }
+
+  header .row .box h5{
+    font-size: 15px;
+  }
+
+  header .row .box p{
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .who-we-are{
+    padding-bottom: 400px;
+  }
+
+  .who-we-are .contain .man img{
+    position: absolute;
+    top: 90%;
+    right: 50%;
+  }
+  
+  .who-we-are .form{
+    width: 60%;
+    top: 90%;
+    left: 40%;
+  }
+
+  .our-services .icon{
+    left: 290px;
+    top: -15px;
+  }
+
+  .emergency a p{
+    font-size: 20px;
+  }
+
+  .why-choose-us .images .img1{
+    top: 100px;
+    left: 10px;
+  }
+  
+  .why-choose-us .images .img2{
+    top: 245px;
+    left: 10px;
+  }
+
+  .why-choose-us .content .features::after{
+    left: 18px;
+  }
+
+  .testmonials .about-us{
+    width: 100%;
+  }
+
+  .testmonials .image img{
+    width: 300px;
+    height: 300px;
+  }
+
+  .testmonials .content .comment{
+    left: 43%;
+    bottom: 70px;
+  }
+
+  .offer .contain{
+    width: 60%;
+  }
+
+  .offer button{
+    width: 100%;
+    padding: 10px;
+    font-size: 9px;
+  }
+
+  .contact-us .contact-info iframe{
+    width: 380px;
+    height: 320px;
+  }
+
+  footer .services{
+    width: 30%;
+  }
+
+  footer h6, h5{
+    font-size: 13px;
+  }
+  
+  footer li{
+    font-size: 10px;
+  }
+  
+  footer p{
+    font-size: 11px;
+    width: 100%;
+  }
+  
+  footer .work-hours{
+    width: 60%;
+  }
+
+  footer .contain .copyrights{
+    flex-direction: column;
+    text-align: center;
+    margin: 0px auto;
+  }
+
+  footer .contain .copyrights p{
+    font-size: 10px;
+  }
+  
+  footer .contain .copyrights a{
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 425px) and (min-width: 376px){
+  .fixed-call p{
+    font-size: 7px;
+  }
+  
+  .navbar .navbar-nav{
+    display: none;
+  }
+
+  .navbar .social-icons{
+    margin-left: 20px;
+  }
+
+  .contact-us .contain,
+  .why-choose-us .contain,
+  .who-we-are .contain,
+  .questions .contain,
+  footer .contain .flex-data{
+    flex-direction: column;
+  }
+
+  .who-we-are .content,
+  .why-choose-us .content,
+  .contact-us .form,
+  .contact-us .contact-info,
+  .questions .content,
+  .questions .accordion{
+    width: 90%;
+    margin: 10px 0px;
+  }
+
+  header .contain h1{
+    width: 100%;
+    font-size: 40px;
+  }
+
+  header .contain p{
+    width: 100%;
+  }
+
+  .who-we-are .content h1,
+  .our-services h1,
+  .why-choose-us .content h1,
+  .testmonials h1,
+  .questions .content h1,
+  .offer h1{
+    font-size: 28px;
+  }
+
+  header .contain p,
+  .who-we-are .content p,
+  .our-services p,
+  .why-choose-us .content p,
+  .testmonials .content p,
+  .questions .content p,
+  .contact-us p{
+    font-size: 13px;
+  }
+
+  header .row{
+    margin: 0px 30px;
+  }
+
+  header .row .box{
+    padding: 10px 20px;
+  }
+
+  header .row .box h5{
+    font-size: 12px;
+  }
+
+  header .row .box p{
+    width: 100%;
+    font-size: 10px;
+  }
+
+  .who-we-are{
+    padding-bottom: 400px;
+  }
+
+  .who-we-are .contain .man img{
+    position: absolute;
+    top: 90%;
+    right: 50%;
+  }
+  
+  .who-we-are .form{
+    width: 60%;
+    top: 90%;
+    left: 40%;
+  }
+
+  .our-services .icon{
+    left: 290px;
+    top: -15px;
+  }
+
+  .emergency a p{
+    font-size: 20px;
+  }
+
+  .why-choose-us .images .main-image img{
+    width: 260px;
+    height: 300px;
+  }
+
+  .why-choose-us .images .img1{
+    top: 100px;
+    left: 10px;
+  }
+  
+  .why-choose-us .images .img2{
+    top: 245px;
+    left: 10px;
+  }
+
+  .why-choose-us .content .features::after{
+    left: 18px;
+  }
+
+  .testmonials .about-us{
+    width: 100%;
+  }
+
+  .testmonials .content .team img{
+    width: 60px;
+    height: 60px;
+  }
+  
+  .testmonials .content h5{
+    font-size: 16px;
+  }
+  
+  .testmonials .content h6{
+    font-size: 10px;
+  }
+  
+  .testmonials .content .comment{
+    width: 15px;
+    height: 15px;
+    right: 52%;
+    bottom: 80px;
+  }
+
+  .testmonials .image img{
+    width: 200px;
+    height: 200px;
+  }
+
+  .offer .contain{
+    width: 70%;
+  }
+
+  .offer button{
+    width: 100%;
+    padding: 10px;
+    font-size: 9px;
+  }
+
+  .contact-us .contact-info iframe{
+    width: 360px;
+    height: 320px;
+  }
+
+  footer .services{
+    width: 90%;
+  }
+
+  footer .social-icons,
+  footer .location,
+  footer .email,
+  footer .phone{
+    flex-direction: row !important;
+  }
+
+  footer h6, h5{
+    font-size: 13px;
+  }
+  
+  footer li{
+    font-size: 10px;
+  }
+  
+  footer p{
+    font-size: 11px;
+    width: 100%;
+  }
+  
+  footer .work-hours{
+    width: 40%;
+  }
+
+  footer .contain .copyrights{
+    flex-direction: column;
+    text-align: center;
+    margin: 0px auto;
+  }
+
+  footer .contain .copyrights p{
+    font-size: 10px;
+  }
+  
+  footer .contain .copyrights a{
+    font-size: 10px;
+  }
+
+  footer::after{
+    height: 8%;
+  }
+
+  .social-icons a{
+    width: 25px;
+    height: 25px;
+  }
+  
+  .social-icons a img{
+    filter: var(--secondary-filter) !important;
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: 375px) and (min-width: 321px){
+  .fixed-call p{
+    font-size: 7px;
+  }
+  
+  .navbar .social-icons,
+  .navbar .navbar-nav{
+    display: none;
+  }
+
+  .contact-us .contain,
+  .why-choose-us .contain,
+  .who-we-are .contain,
+  .questions .contain,
+  footer .contain .flex-data{
+    flex-direction: column;
+  }
+
+  .who-we-are .content,
+  .why-choose-us .content,
+  .contact-us .form,
+  .contact-us .contact-info,
+  .questions .content,
+  .questions .accordion{
+    width: 90%;
+    margin: 10px 0px;
+  }
+
+  header .contain h1{
+    width: 100%;
+    font-size: 40px;
+  }
+
+  header .contain p{
+    width: 100%;
+  }
+
+  .who-we-are .content h1,
+  .our-services h1,
+  .why-choose-us .content h1,
+  .testmonials h1,
+  .questions .content h1,
+  .offer h1{
+    font-size: 22px;
+  }
+
+  header .contain p,
+  .who-we-are .content p,
+  .our-services p,
+  .why-choose-us .content p,
+  .testmonials .content p,
+  .questions .content p,
+  .contact-us p{
+    font-size: 12px;
+  }
+
+  header .row{
+    margin: 0px 20px;
+  }
+
+  header .row .box{
+    padding: 10px 20px;
+  }
+
+  header .row .box h5{
+    font-size: 10px;
+  }
+
+  header .row .box p{
+    width: 100%;
+    font-size: 9px;
+  }
+
+  .who-we-are{
+    padding-bottom: 400px;
+  }
+
+  .who-we-are .content .flex-data p{
+    font-size: 11px;
+    margin-left: 10px;
+  }
+
+  .who-we-are .contain .man img{
+    width: 200px;
+    position: absolute;
+    top: 90%;
+    right: 47%;
+  }
+  
+  .who-we-are .form{
+    width: 60%;
+    top: 90%;
+    left: 40%;
+    padding: 20px;
+  }
+
+  .who-we-are .form button{
+    font-size: 10px;
+  }
+
+  .our-services .icon{
+    left: 290px;
+    top: -15px;
+  }
+  
+  .emergency h5{
+    margin-right: 40px;
+    width: 100%;
+  }
+  
+  .emergency .box{
+    background-color: rgba(255, 255, 255, 0.113);
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 0px 10px;
+  }
+  
+  .emergency .box h4{
+    font-size: 14px;
+  }
+  
+  .emergency .box p{
+    font-size: 12px;
+  }
+
+  .emergency a p{
+    font-size: 13px;
+  }
+
+  .why-choose-us .images .main-image img{
+    width: 260px;
+    height: 300px;
+  }
+
+  .why-choose-us .images img{
+    border: 4px solid var(--secondary-color);
+    position: absolute;
+    width: 120px;
+    height: 100px;
+  }
+  
+  .why-choose-us .images .img1{
+    top: 100px;
+    left: 10px;
+  }
+  
+  .why-choose-us .images .img2{
+    top: 210px;
+    left: 10px;
+  }
+
+  .why-choose-us .content .features::after{
+    left: 14px;
+    top: 25%;
+  }
+
+  .testmonials .about-us{
+    width: 100%;
+  }
+
+  .testmonials .content .team img{
+    width: 60px;
+    height: 60px;
+  }
+  
+  .testmonials .content h5{
+    font-size: 16px;
+  }
+  
+  .testmonials .content h6{
+    font-size: 10px;
+  }
+  
+  .testmonials .content .comment{
+    display: none;
+  }
+
+  .testmonials .image img{
+    width: 175px;
+    height: 180px;
+  }
+
+  .offer .contain{
+    width: 70%;
+  }
+
+  .offer button{
+    width: 100%;
+    padding: 10px;
+    font-size: 9px;
+  }
+
+  .contact-us .contact-info iframe{
+    width: 320px;
+    height: 320px;
+  }
+
+  footer .services{
+    width: 90%;
+  }
+
+  footer .social-icons,
+  footer .location,
+  footer .email,
+  footer .phone{
+    flex-direction: row !important;
+  }
+
+  footer h6, h5{
+    font-size: 13px;
+  }
+  
+  footer li{
+    font-size: 10px;
+  }
+  
+  footer p{
+    font-size: 11px;
+    width: 100%;
+  }
+  
+  footer .work-hours{
+    width: 40%;
+  }
+
+  footer .contain .copyrights{
+    flex-direction: column;
+    text-align: center;
+    margin: 0px auto;
+  }
+
+  footer .contain .copyrights p{
+    font-size: 10px;
+  }
+  
+  footer .contain .copyrights a{
+    font-size: 10px;
+  }
+
+  footer::after{
+    height: 8%;
+  }
+
+  .social-icons a{
+    width: 25px;
+    height: 25px;
+  }
+  
+  .social-icons a img{
+    filter: var(--secondary-filter) !important;
+    width: 15px;
+    height: 15px;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: 320px){
+  .navbar-nav{
+    display: none;
+  }
+}
